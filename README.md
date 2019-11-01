@@ -1,6 +1,7 @@
 # Pandoc document template (Windows)
 
 (Copied from here: https://github.com/rhwilr/markdown-documentation-template/blob/master/README.md (Unix ) and changed for Windows)
+Big shoutout to [Ralph Huwiler](https://github.com/rhwilr) 
 
 ## Description
 
